@@ -2,21 +2,5 @@ body {
   margin: 0;
   padding: 0;
 	font-family: sans-serif;
-	color: mediumaquamarine;
-}
-
-h1 {
-	color: rgb(255, 71, 71);
-}
-
-h3 {
-	color: rgb(121, 121, 255);
-}
-button {
-	background-color: rgb(100, 99, 99);
-	color: aquamarine;
-}
-
-p {
-	color: grey;
+	
 }
